@@ -1,0 +1,7 @@
+redlight
+greenlight
+Transformer box
+obstacle
+Downstair
+chair
+Upstair
