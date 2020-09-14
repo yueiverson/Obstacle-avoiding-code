@@ -1,3 +1,0 @@
-主程式碼:objcet.py
-
-裝置開啟自動執行腳本:autostart.sh
